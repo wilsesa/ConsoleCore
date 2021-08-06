@@ -1,0 +1,15 @@
+C:\Users\Wilson\Documents\ConsoleCore\GameTOP.Lib\bin\Debug\net5.0\GameTOP.Lib.deps.json
+C:\Users\Wilson\Documents\ConsoleCore\GameTOP.Lib\bin\Debug\net5.0\GameTOP.Lib.dll
+C:\Users\Wilson\Documents\ConsoleCore\GameTOP.Lib\bin\Debug\net5.0\ref\GameTOP.Lib.dll
+C:\Users\Wilson\Documents\ConsoleCore\GameTOP.Lib\bin\Debug\net5.0\GameTOP.Lib.pdb
+C:\Users\Wilson\Documents\ConsoleCore\GameTOP.Lib\bin\Debug\net5.0\GameTOP.Interface.dll
+C:\Users\Wilson\Documents\ConsoleCore\GameTOP.Lib\bin\Debug\net5.0\GameTOP.Interface.pdb
+C:\Users\Wilson\Documents\ConsoleCore\GameTOP.Lib\obj\Debug\net5.0\GameTOP.Lib.csproj.AssemblyReference.cache
+C:\Users\Wilson\Documents\ConsoleCore\GameTOP.Lib\obj\Debug\net5.0\GameTOP.Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wilson\Documents\ConsoleCore\GameTOP.Lib\obj\Debug\net5.0\GameTOP.Lib.AssemblyInfoInputs.cache
+C:\Users\Wilson\Documents\ConsoleCore\GameTOP.Lib\obj\Debug\net5.0\GameTOP.Lib.AssemblyInfo.cs
+C:\Users\Wilson\Documents\ConsoleCore\GameTOP.Lib\obj\Debug\net5.0\GameTOP.Lib.csproj.CoreCompileInputs.cache
+C:\Users\Wilson\Documents\ConsoleCore\GameTOP.Lib\obj\Debug\net5.0\GameTOP.Lib.csproj.CopyComplete
+C:\Users\Wilson\Documents\ConsoleCore\GameTOP.Lib\obj\Debug\net5.0\GameTOP.Lib.dll
+C:\Users\Wilson\Documents\ConsoleCore\GameTOP.Lib\obj\Debug\net5.0\ref\GameTOP.Lib.dll
+C:\Users\Wilson\Documents\ConsoleCore\GameTOP.Lib\obj\Debug\net5.0\GameTOP.Lib.pdb
